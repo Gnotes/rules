@@ -13,7 +13,7 @@
 - `chore` 构建过程或辅助工具的变动
 - `revert` 撤销
 - `close` 关闭 issue
-- `clean` -清理
+- `clean` 清理
 
 ### `git label` 规则
 
